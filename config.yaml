@@ -1,0 +1,10 @@
+api:
+  base_url: https://jsonplaceholder.typicode.com
+  timeout: 10
+
+report:
+  html_dir: reports/html
+  log_dir: reports/logs
+
+test:
+  invalid_post_id: 99999
